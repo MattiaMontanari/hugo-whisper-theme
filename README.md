@@ -60,7 +60,7 @@ Download or git clone this theme into the sites themes folder `mynewsite/themes`
 
 ```
 cd mynewsite
-git clone https://github.com/zerostaticthemes/hugo-whisper-theme.git themes/hugo-whisper-theme
+git clone https://github.com/MattiaMontanari/hugo-whisper-theme.git themes/hugo-whisper-theme
 ```
 
 **4. Copy the example content**
