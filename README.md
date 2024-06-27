@@ -1,10 +1,9 @@
+This is a fork for the beautiful Hugo theme Whisper. The original repo is no longer mainated and does not take PR in, so I'm trying to keep this theme alive. As of now, I have managed to build it succesfully with Hugo v0.92, later versions such as v0.120+ are not compatible with this theme.
+
+
 # Hugo Whisper Theme
 
 Whisper is a minimal documentation theme built for Hugo. The design and functionality is intentionally minimal.
-
-
-[Live Demo](https://hugo-whisper.netlify.app/) |
-[Zerostatic Themes](https://www.zerostatic.io/)
 
 ![Hugo Whisper Theme screenshot](https://www.zerostatic.io/theme/hugo-whisper/hugo-whisper-screenshot.png)
 
