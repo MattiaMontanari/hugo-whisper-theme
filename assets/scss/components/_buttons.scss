@@ -5,12 +5,14 @@
   background: $primary;
   font-weight: normal;
   text-transform: uppercase;
-  color: lighten($primary, 50%);
+  color: lighten($primary, 100%);
   text-decoration: none;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
   border-radius: 3px;
   &:hover {
     color: #fff;
-    background-color: lighten($primary, 10%);
+    background-color: #060434;
     text-decoration: none;
   }
 }

@@ -15,14 +15,5 @@
     @include media-breakpoint-up(lg) {
       width: 60%;
     }
-  }
-  .terminal {
-    border-radius: 3px;
-    margin: 0 auto;
-    margin-top: -200px;
-    img {
-      width: 100%;
-      height: auto;
-    }
-  }
+   }
 }
