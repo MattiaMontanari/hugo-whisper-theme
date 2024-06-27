@@ -1,4 +1,4 @@
-This is a fork for the beautiful Hugo theme Whisper. The original repo is no longer mainated and does not take PR in, so I'm trying to keep this theme alive. As of now, I have managed to build it succesfully with Hugo v0.92, later versions such as v0.120+ are not compatible with this theme.
+> This is a fork for the beautiful Hugo theme Whisper. The original repo is no longer mainated and does not take PR in, so I'm trying to keep this theme alive. As of now, I have managed to build it succesfully with Hugo v0.92, later versions such as v0.120+ are not compatible with this theme.
 
 
 # Hugo Whisper Theme
